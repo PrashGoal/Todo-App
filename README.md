@@ -9,7 +9,7 @@
 
 ## Usage
 
-> Run the `main.py` 
+> Run the `Todo.py` 
 
 ## Technology used
 - Python packages
